@@ -1,9 +1,16 @@
-This repo will house random python and R scripts. Nothing  here will blow anyone's mind. 
+This repo will house random Python and R scripts. Nothing here will blow anyone's mind. 
 
-This place will mostly server as a playground for me to learn git and document python scripts. 
+This place will mostly serve as a playground for me to learn git and documentation for scripts. 
 
 Many of these scripts will come from Udemy courses and other online places.   
 
 What you will find here are:
 
--empty folders      
+- Titanic Data Project (In Progress)- This is a project that is part of a Udumy course taught 
+by Jose Portilla called "Learning Python for Data Analysis and Visualization."   
+
+- empty folders
+
+- a lot of drafts       
+
+   
