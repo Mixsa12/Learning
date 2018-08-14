@@ -1,0 +1,9 @@
+This repo will house random python and R scripts. Nothing  here will blow anyone's mind. 
+
+This place will mostly server as a playground for me to learn git and document python scripts. 
+
+Many of these scripts will come from Udemy courses and other online places.   
+
+What you will find here are:
+
+-empty folders      
